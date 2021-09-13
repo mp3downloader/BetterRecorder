@@ -17,7 +17,7 @@ subtitle                 : "Capture screen, video and audio"
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://mp3downloader.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/betterrecorder-site/docs" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/betterrecorder-site" # the subpath of your site, e.g. "/blog"
 repository               : "mp3downloader/betterrecorder-site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
