@@ -7,6 +7,9 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
   Record screen, window, camera video, micphone audio and computer audio for Mac OS X.<br />
+  <small><a href="https://apps.apple.com/app/id1585160228">Mac App Store</a></small>
+  <small><a href="https://github.com/mp3downloader/mp3downloader.github.io/releases/download/BetterRecorder-1.0.1/BetterRecorder.dmg">Download Dmg</a></small>
+
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Screen Recorder"
